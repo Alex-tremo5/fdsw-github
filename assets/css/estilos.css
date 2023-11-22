@@ -38,3 +38,12 @@ body {
 
 }
 
+.bck {
+  background-color: rgb(153, 194, 179)
+}
+
+.button_adj {
+  background-color: transparent;
+  border: 1px solid transparent;
+  border-color: rgb(153, 194, 179);
+}
